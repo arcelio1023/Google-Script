@@ -1,4 +1,4 @@
-# GMAIL Trash Removal -- Google-Script
+# Google-Script
 # Gmail Trash removal  
 
 Gmail makes it impossible to remove unwanted emails from the trash container until 30 days has expired.  
