@@ -1,5 +1,6 @@
 /**
- * METHOD 1: Delete ALL trash emails using Gmail API (Most Effective)
+ * Other Methods can be used
+ * Delete ALL trash emails using Gmail API (Most Effective)
  * Requires enabling Gmail API in Services
  */
 function deleteAllTrashWithAPI() {
